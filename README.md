@@ -1,6 +1,10 @@
 # Master Thesis Preview - Neural Style Transfer in 3D
 
-This repo is for Mengdi's master thesis, topic neural style transfer in 3D. The project is currently not finished yet and is about 60% in progress. The slides in this repo provide a preview of the project.
+This repo is for Mengdi's master thesis, topic neural style transfer in 3D. The goal of this theis project is to transfer style from 2D image onto 3D object: not only **"texturing"**, but also **"reshaping"**.
+
+
+The project is currently not finished yet and is about 60% in progress. The slides in this repo provide a preview of the project.
+
 
 Please note that for privacy and anti-plagiarism, only preview slides and some figures are kept on GitHub. All source code as well as log files are not uploaded anywhere publicly. In case when you need source code or history log, please contact Mengdi personally.
 
