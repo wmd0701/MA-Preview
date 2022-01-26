@@ -20,3 +20,6 @@ https://user-images.githubusercontent.com/34072813/151218042-6c7eb1f9-0e6e-4b66-
 
 ### Silhouettes for style image STARRY NIGHT
 ![somre results 3](https://user-images.githubusercontent.com/34072813/151218349-a3a33bbc-e3db-47d0-9c0f-2853ec7a2f98.png)
+
+### Simplified pipeline
+![simplified pipeline](https://user-images.githubusercontent.com/34072813/151218626-6aa82d6c-1581-4730-8f4d-9c3fba52dad1.png)
