@@ -1,29 +1,20 @@
 # Master Thesis Preview - Neural Style Transfer in 3D
 
-This repo is for Mengdi's master thesis, topic neural style transfer in 3D. The goal of this theis project is to transfer style from 2D image onto 3D object: not only **"texturing"**, but also **"reshaping"**.
+This repo is for Mengdi's master thesis, topic in neural style transfer in 3D. The goal of this theis project is to transfer style from 2D image onto 3D mesh such that the mesh is reshaped and textured. 
 
+The project is currently about 80% in progress and will be finished by May 5th, 2022. With the end of this thesis project, Mengdi's master study at ETHZ reaches its end.
 
-The project is currently not finished yet and is about 60% in progress. The slides in this repo provide a preview of the project.
+For privacy and anti-plagiarism, the source code and the report will not be uploaded on GitHub before Mengdi's graduation from ETHZ. Instead, a byproduct of the project - extended 2D neural style transfer, is given in Python notebook. The notebook can be directly run on Google Colab.
 
-
-Please note that for privacy and anti-plagiarism, only preview slides and some figures are kept on GitHub. All source code as well as log files are not uploaded anywhere publicly. In case when you need source code or history log, please contact Mengdi personally.
+In case you need the source code or the report of this project, please contact Mengdi personally.
 
 ## Some Results
 
-### Object at 500 iterations, single camera in front for renderering
-https://user-images.githubusercontent.com/34072813/151217957-e9b74d80-6fdd-43f8-89b5-116d82b65fc3.mp4
+### Reshaping
+<img src="https://user-images.githubusercontent.com/34072813/155399693-b462c412-b862-4ba5-9b0d-1667aa500104.gif" width=70% height=70%>
 
-### Object at 500 iterations, six cameras around for renderering
-https://user-images.githubusercontent.com/34072813/151218042-6c7eb1f9-0e6e-4b66-bb51-8766b61a7ce0.mp4
+### Texturing
+<img src="https://user-images.githubusercontent.com/34072813/155400440-476e22fd-a368-4c2d-bf37-96f48f6039ce.png" width=70% height=70%>
 
-### Silhouettes for style image BLUE SWIRLS
-![some results 1](https://user-images.githubusercontent.com/34072813/151218181-d78583ad-7f95-479c-8310-26cc8e8e405a.png)
-
-### Silhouettes for style image PATTERNED LEAVES
-![some results 2](https://user-images.githubusercontent.com/34072813/151218255-4fad2620-0b14-449e-b710-d9e75641a561.png)
-
-### Silhouettes for style image STARRY NIGHT
-![somre results 3](https://user-images.githubusercontent.com/34072813/151218349-a3a33bbc-e3db-47d0-9c0f-2853ec7a2f98.png)
-
-### Simplified pipeline
-![simplified pipeline](https://user-images.githubusercontent.com/34072813/151218626-6aa82d6c-1581-4730-8f4d-9c3fba52dad1.png)
+### How reshaping and texturing are aligned
+<img src="https://user-images.githubusercontent.com/34072813/155400895-6b18c948-eec4-4201-94a7-13e5c6a466f0.png" width=70% height=70%>
